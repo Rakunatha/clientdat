@@ -1,6 +1,6 @@
 # ClientDat
 
-A client intake + AI case analysis tool for family law practices. One Flask
+A client intake + AI case analysis tool for any legal practice. One Flask
 app (`app.py`) — routes, database, encryption, AI calls, and every page's
 HTML/CSS all live in that single file.
 
